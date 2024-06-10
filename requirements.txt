@@ -1,0 +1,9 @@
+yfinance
+python-dateutil
+pandas
+matplotlib
+streamlit
+praw
+textblob
+ratelimit
+backoff
