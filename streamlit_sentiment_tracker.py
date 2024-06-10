@@ -4,8 +4,6 @@ import functions
 import portfolio
 import time
 
-# Change directory if needed
-os.chdir(r'c:\\Users\\ethan\\Downloads\\Sentiment_Project')
 
 # Getting Exclude Words
 with open("exclude_words.txt", 'r') as file:
