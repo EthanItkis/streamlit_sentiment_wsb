@@ -10,10 +10,10 @@ import streamlit as st
 
 
 reddit = praw.Reddit(user_agent=True, 
-                        client_id="9SNfpLKTWS71R1vtp9FguA", 
-                        client_secret="_LMOYTWYbc1oZKCd9jBhtVYMvtIzgQ", 
-                        username="IceCreamHead300", 
-                        password="Gwwg6479")
+                        client_id="*****************", 
+                        client_secret="****************", 
+                        username="**********", 
+                        password="*********")
 
 
 
